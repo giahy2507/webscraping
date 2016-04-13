@@ -14,6 +14,19 @@ class Cluster(object):
         self.title = title
         self.my_summarys = []
 
+    def __str__(self):
+        documentstr = ""
+        referencestr = ""
+        for document in self.list_documents:
+            for sentence in document.list_sentences:
+                documentstr = documentstr + sentence.string + "\n"
+
+        for document in self.list_references:
+            for sentence in document.list_sentences:
+                referencestr = referencestr + sentence.string + "\n"
+
+        return documentstr +"\n\n" +referencestr
+
 class Document(object):
     def __init__(self,title, list_sentences , document_id = -1,):
         self.title = title

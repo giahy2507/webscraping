@@ -5,9 +5,11 @@ import nltk
 from bs4 import BeautifulSoup
 import requests
 import re
-def extract_words(url):
+import pickle
+
+def extract_document(title, url):
     '''
-    Extracts words from a web.
+    Extract Summary & Document
 
     Parameters
     ----------
@@ -15,38 +17,46 @@ def extract_words(url):
         The url of the web.
     '''
     try:
-        soup = BeautifulSoup(open("dailymailsample"))
+        html_text = requests.get(url).text
     except:
-        print('Cannot read ' + url)
+        print('Cannot parse: ' + url)
         return None
+
+    soup = BeautifulSoup(html_text)
 
     # Remove invisible elements
     for invisible_elem in soup.find_all(['script', 'style']):
         invisible_elem.extract()
 
-    summary_sentences = []
+    reference_sentences = []
     # Get texts from visible elements, concatenate them using spaces, and then lower all characters
     summary_tag = soup.find_all("ul", class_="mol-bullets-with-font")
+    if len(summary_tag) == 0:
+        print( url + " dont have summary text")
+        return None
 
     for child in summary_tag[0].contents:
-        summary_sentences.append(child.contents[0].contents[0].text)
+        reference_sentences.append(Sentence(child.contents[0].contents[0].text))
 
     document_sentences = []
     sentence_tags = soup.find_all("p", class_="mol-para-with-font")
     for sentence_tag in sentence_tags:
-        sentence = sentence_tag.contents[0].text
-        if sentence != "" or sentence_tag.string != None:
-            document_sentences.append(sentence)
+        try:
+            if len(sentence_tag.contents) == 0:
+                continue
+            xxx = sentence_tag.contents[0].text
+            sentences = nltk.sent_tokenize(xxx)
+            for sentence in sentences:
+                if sentence != "" and sentence.find("Scroll down for video") == -1:
+                    document_sentences.append(Sentence(sentence))
+        except:
+            print("except", sentence_tag)
 
-
-    print(summary_sentences)
-
-
-
-    return None
-
+    ref = Document(title=title, list_sentences=reference_sentences)
+    doc = Document(title=title, list_sentences=document_sentences)
+    return Cluster(-1, [doc], [ref], title=title)
 
 if __name__ == "__main__":
-    # rss = feedparser.parse('http://www.dailymail.co.uk/news/headlines/index.rss')
-    extract_words("")
-
+    a = extract_document("hynguyen", "http://www.dailymail.co.uk/news/article-3534797/Bristol-Palin-blasts-hypocrites-Twitter-refusing-ban-Azealia-Banks-rapper-called-Sarah-Palin-gang-raped-rant-social-media-site.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490")
+    if a is None:
+        print("ttdtilu")
