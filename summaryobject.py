@@ -35,6 +35,12 @@ class Document(object):
         self.length = len(list_sentences)
         self.word_count = sum([sentence.length for sentence in list_sentences if isinstance(sentence, Sentence)])
 
+    def __str__(self):
+        txt = ""
+        for sentence in self.list_sentences:
+            txt = txt + sentence.string + "\n"
+        return txt
+
 class Sentence(object):
     def __init__(self, string, vector = None):
         self.string = string
