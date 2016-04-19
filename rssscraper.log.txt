@@ -1,0 +1,61 @@
+http://www.dailymail.co.uk/news/article-3542896/Part-one-100-Glories-Britain-spring-shows-20-best-spots-Britain-bloom.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3542904/Dave-s-fatal-flaw-heart-Tories-problems-lies-Cameron-s-Osborne-s-utter-inability-grasp-values-aspirations-middle-classes-writes-Dominic-Sandbrook.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+save 1 data/1460825040.2583013.cluster.save.pickle
+title.length 119
+clusters.length 1
+
+
+http://www.dailymail.co.uk/news/article-3543489/Bizarre-psychedelic-nest-built-swarm-wasps-fed-rainbow-coloured-PAPER.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+save 80 data/1460853947.906293.cluster.save.pickle
+title.length 199
+clusters.length 80
+
+
+except <p class="mol-para-with-font"> </p>
+http://www.dailymail.co.uk/news/article-3544039/Huon-Island-coast-Tasmania-sale.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3543489/Bizarre-psychedelic-nest-built-swarm-wasps-fed-rainbow-coloured-PAPER.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+save 87 data/1460882853.3987021.cluster.save.pickle
+title.length 286
+clusters.length 87
+
+
+http://www.dailymail.co.uk/news/article-3544185/Hollywood-mogul-blasts-Obama-Google-piracy.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3544039/Huon-Island-coast-Tasmania-sale.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+except <p class="mol-para-with-font"> </p>
+save 83 data/1460911781.3018734.cluster.save.pickle
+title.length 369
+clusters.length 83
+
+
+http://www.dailymail.co.uk/news/article-3544963/Murder-fowl-s-classic-English-village-mystery-s-headlines-world-huge-reward-offer-did-kill-Mr-Goose-ROBERT-HARDMAN-joins-hunt.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3544750/100-Glories-Britain-spring-Two-20-best-places-spot-wildlife.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3544910/Why-fear-picture-proves-Kate-Diana-s-shadow-William-hoped-recreating-mother-s-Taj-Mahal-pose-finally-lay-ghost-rest-contrary-says-JAN-MOIR.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+save 102 data/1460940702.4427733.cluster.save.pickle
+title.length 471
+clusters.length 102
+
+
+http://www.dailymail.co.uk/news/article-3544910/Why-fear-picture-proves-Kate-Diana-s-shadow-William-hoped-recreating-mother-s-Taj-Mahal-pose-finally-lay-ghost-rest-contrary-says-JAN-MOIR.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3544963/Murder-fowl-s-classic-English-village-mystery-s-headlines-world-huge-reward-offer-did-kill-Mr-Goose-ROBERT-HARDMAN-joins-hunt.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3544750/100-Glories-Britain-spring-Two-20-best-places-spot-wildlife.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+save 75 data/1460969621.0809243.cluster.save.pickle
+title.length 546
+clusters.length 75
+
+
+http://www.dailymail.co.uk/news/article-3545444/Snow-capped-mountains-solitary-houses-villages-just-nine-people-Photographer-captures-isolated-lives-people-living-Faroe-Islands.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+save 119 data/1460998575.5313845.cluster.save.pickle
+title.length 665
+clusters.length 119
+
+
+http://www.dailymail.co.uk/news/article-3546763/On-altar-four-candles-Ronnie-loved-ROBERT-HARDMAN-moving-tribute-saw-Britain-s-funniest-stars-say-farewell-comedy-legend.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3546832/SEBASTIAN-SHAKESPEARE-50k-year-Maj-kids.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+Traceback (most recent call last):
+  File "rssscraper.py", line 76, in <module>
+    cluster = extract_document(entry.title, entry.link)
+  File "rssscraper.py", line 39, in extract_document
+    reference_sentences.append(Sentence(child.contents[0].contents[0].text))
+  File "/usr/local/lib/python3.4/dist-packages/bs4/element.py", line 675, in __getattr__
+    self.__class__.__name__, attr))
+AttributeError: 'NavigableString' object has no attribute 'text'
