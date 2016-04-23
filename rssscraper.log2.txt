@@ -1,0 +1,85 @@
+have bug
+http://www.dailymail.co.uk/news/article-3546832/SEBASTIAN-SHAKESPEARE-50k-year-Maj-kids.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3546763/On-altar-four-candles-Ronnie-loved-ROBERT-HARDMAN-moving-tribute-saw-Britain-s-funniest-stars-say-farewell-comedy-legend.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3546813/Sanders-new-attack-Clinton-s-bending-campaign-finance-rules-breaking-point-collect-money-Wall-Street-fat-cats.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3546819/No-one-match-especially-not-self-indulgent-son-eve-90th-birthday-MAX-HASTINGS-says-yes-Queen-flaws-God-ve-blessed-shrewd-operator-throne.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3546788/CRAIG-BROWN-celebrates-unexpected-names-like-baby-called-Cyanide.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3546707/Mouth-open-nodded-like-Blakey-Buses-QUENTIN-LETTS-Osborne-s-big-speech.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3546517/A-funny-rom-com-divorce-Nope-pure-cringe-com-writes-CHRISTOPHER-STEVENS-night-s-TV.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3546552/100-Glories-Britain-spring-Three-20-finest-views-Britain.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+save 98 data/1461029536.0167358.cluster.save.pickle
+title.length 763
+clusters.length 98
+
+
+http://www.dailymail.co.uk/news/article-3547332/Tragedy-four-month-old-baby-girl-dies-flight-London-Hong-Kong-parents-taking-visit-relatives.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3546763/On-altar-four-candles-Ronnie-loved-ROBERT-HARDMAN-moving-tribute-saw-Britain-s-funniest-stars-say-farewell-comedy-legend.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+have bug
+http://www.dailymail.co.uk/news/article-3546832/SEBASTIAN-SHAKESPEARE-50k-year-Maj-kids.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3546819/No-one-match-especially-not-self-indulgent-son-eve-90th-birthday-MAX-HASTINGS-says-yes-Queen-flaws-God-ve-blessed-shrewd-operator-throne.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3546788/CRAIG-BROWN-celebrates-unexpected-names-like-baby-called-Cyanide.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+save 94 data/1461058501.5545948.cluster.save.pickle
+title.length 857
+clusters.length 94
+
+
+save 120 data/1461087448.6901412.cluster.save.pickle
+title.length 977
+clusters.length 120
+
+
+http://www.dailymail.co.uk/news/article-3548857/Michael-Gove-funny-gripping-rude-English-mustard-writes-Quentin-Letts.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3548877/SEBASTIAN-SHAKESPEARE-Tate-pickle-Hirst-s-art-leaked-dangerous-levels-cancer-causing-fumes.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3548893/We-examine-key-sectors-Michael-Gove-s-passionate-speech.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3548718/100-Glories-Britain-spring-Four-20-magical-mysterious-sites.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+save 107 data/1461116398.5949557.cluster.save.pickle
+title.length 1084
+clusters.length 107
+
+
+http://www.dailymail.co.uk/news/article-3548877/SEBASTIAN-SHAKESPEARE-Tate-pickle-Hirst-s-art-leaked-dangerous-levels-cancer-causing-fumes.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3548857/Michael-Gove-funny-gripping-rude-English-mustard-writes-Quentin-Letts.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3548893/We-examine-key-sectors-Michael-Gove-s-passionate-speech.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3548718/100-Glories-Britain-spring-Four-20-magical-mysterious-sites.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+save 89 data/1461145316.5463378.cluster.save.pickle
+title.length 1173
+clusters.length 89
+
+
+http://www.dailymail.co.uk/news/article-3549827/Japanese-woman-finds-giant-hornet-closet.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3550172/PIERS-MORGAN-Trump-raging-King-Don-Clinton-scary-cold-blooded-monster-Hill-Zilla-right-money-s-hairy-beast.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3549998/With-Standards-raised-drums-beating-swords-drawn-bayonets-fixed-Household-Cavalry-marks-Freedom-City-time-Falklands-War-tradition-dating-1237.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+save 117 data/1461174235.6130664.cluster.save.pickle
+title.length 1290
+clusters.length 117
+
+
+http://www.dailymail.co.uk/news/article-3550913/Cameron-s-quick-nobble-opponent-low-blow-QUENTIN-LETTS-yesterday-Parliament.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3550813/100-Glories-Britain-spring-Five-Britain-s-20-fabulous-follies.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3550330/So-brightest-students-doing-library-Oxford-undergraduates-set-Facebook-page-dedicated-funniest-scrawls-doodled-books.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3550172/PIERS-MORGAN-Trump-raging-King-Don-Clinton-scary-cold-blooded-monster-Hill-Zilla-right-money-s-hairy-beast.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+save 98 data/1461203157.3903549.cluster.save.pickle
+title.length 1388
+clusters.length 98
+
+
+http://www.dailymail.co.uk/news/article-3550913/Cameron-s-quick-nobble-opponent-low-blow-QUENTIN-LETTS-yesterday-Parliament.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3550813/100-Glories-Britain-spring-Five-Britain-s-20-fabulous-follies.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+save 91 data/1461232067.915933.cluster.save.pickle
+title.length 1479
+clusters.length 91
+
+
+http://www.dailymail.co.uk/news/article-3551612/KATIE-HOPKINS-lynch-mob-never-forgive-Ched-Evans-successful.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3552061/Guatemala-trio-caught-planning-use-wooden-gun-robbery.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3551670/Cops-kills-man-kidnapped-woman-calls-911.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+save 117 data/1461260983.3687472.cluster.save.pickle
+title.length 1596
+clusters.length 117
+
+
+http://www.dailymail.co.uk/news/article-3552800/Glories-Britain-spring-Six-Twenty-gloriously-eccentric-spring-festivals.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3552942/SEBASTIAN-SHAKESPEARE-Harry-s-ex-strips-new-Cressida-Bonas-set-send-pulses-racing-steamy-scenes-horror-film-Bye-Bye-Man.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3553008/JAN-MOIR-Wills-work-harder-win-love.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3552936/ROBERT-HARDMAN-Fire-Queenmobile-s-time-birthday-street-party.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text
+http://www.dailymail.co.uk/news/article-3552906/Femme-fatale-foiled-Nazis-hid-secrets-negligees-never-wore-knickers-seduced-countless-men-help-Britain-win-war-new-book-tells-story-MI6-s-sexiest-spy.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490 dont have summary text

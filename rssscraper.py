@@ -34,9 +34,15 @@ def extract_document(title, url):
     if len(summary_tag) == 0:
         print( url + " dont have summary text")
         return None
-
+    
     for child in summary_tag[0].contents:
-        reference_sentences.append(Sentence(child.contents[0].contents[0].text))
+        try:
+            reference_sentences.append(Sentence(child.contents[0].contents[0].text))
+        except:
+            continue
+    if len(reference_sentences) == 0:
+        print("have bug")
+        return None
 
     document_sentences = []
     sentence_tags = soup.find_all("p", class_="mol-para-with-font")
